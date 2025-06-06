@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Oxford Beginnings: On Walking, Wonder, and What Comes Next
+title: "Oxford Beginnings: On Walking, Wonder, and What Comes Next"
 date: 2025-06-06 
 categories: travel oxford reflection research
 ---
