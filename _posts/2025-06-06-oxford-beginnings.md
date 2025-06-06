@@ -1,10 +1,8 @@
  ---
 layout: post  
-
 title: "Oxford Beginnings: On Walking, Wonder, and What Comes Next"  
-
 date: 2025-06-06 14:00:00 +0000  
-
+categories: travel oxford reflection research
 ---
 
 When I first reached Oxford, I had just gotten off an hour-and-a-half bus ride that gave me a glimpse of the rolling hills between London and Oxford. Throughout the bus ride, my brain instantly jumped for pieces of familiarity as the warm sun rays came through my window- did the steep rocks covered in grass remind me of the mountains of Asheville? The trees of my own hometown of Raleigh, the gusts of wind passing by on a breezy day at Wilmington? I quickly realized that my experience in Oxford, Oxfordshire, would be an amalgamation of all the places I’d been before, and yet something new and foreign entirely. I was abruptly introduced to my first lifestyle change: walking! When I began to drag my suitcases down the cobblestones near Turl St. After picking up my apartment key, I met my principal investigator bright and early on Monday morning.  He said to me, “My time is my own,” and that lesson has rung true for the past month. Things on Google Maps have gone down from 14 minutes to 12 minutes to sometimes even 10 if I feel like breaking into a jog. I still measure things in miles, not kilometers, but I know what 400 grams is by instinct now from buying strawberries from Tesco, and I no longer struggle with understanding pounds and how to bag a good deal at the Covered Market.  
