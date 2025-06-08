@@ -19,7 +19,9 @@ But here in Oxford, this kind of biostatistics is just computer science… in so
 
 The age-old questions of what things are called and why swirl in my mind as I come face to face with various spheres of influence. And this makes the question of what I really want to do with my life and the different axes I’m straddling all the more important, one that I hope can be answered (partially) through experiences like this summer.  
 
-<img src="/assets/photos/radcam.jpg" alt="Radcliffe Camera in Oxford" width="600" height="800"/>
+<p align="center">
+  <img src="/assets/photos/radcam.jpg" alt="Radcliffe Camera in Oxford" width="600" height="800"/>
+</p>
 
 The significance of studying at the RadCam is not lost on me - I am humbled by the weight of what it means to represent my family, understand my culture, and where Oxford and the UK stand as a society still grappling with diversity and equity. I have been told many times by the wonderful role models I met at ENAR two years ago that one of the bravest things I can do as a Black female biostatistician is to take up space! And I am here in Oxford to do that, in historic libraries like the RadCam, in the seminar rooms at Jesus College and Imperial College London, and the various cafes I find to write in. Not just for myself, but for my parents who trained me to use my talents for a purpose, my grandmother and grandfather who never went to college, and help my cousin at LSE feel a bit less alone in being two members of our family living abroad and experiencing the ups and downs of our twenties.  
 
