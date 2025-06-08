@@ -5,7 +5,7 @@ date: 2025-06-06
 categories: travel oxford reflection research
 ---
 
-![Christ Church Meadow in Oxford](/assets/photos/meadow.jpg)
+<img src="/assets/photos/meadow.jpg" alt="Christ Church Meadow in Oxford" width="1200" height="600"/>
 
 When I first reached Oxford, I had just gotten off an hour-and-a-half bus ride that gave me a glimpse of the rolling hills between London and Oxford. Throughout the bus ride, my brain instantly jumped for pieces of familiarity as the warm sun rays came through my window- did the steep rocks covered in grass remind me of the mountains of Asheville? The trees of my own hometown of Raleigh, the gusts of wind passing by on a breezy day of Wilmington? I quickly realized that my experience in Oxford, Oxfordshire, would be an amalgamation of all the places I’d been before, and yet something new and foreign entirely. I was abruptly introduced to my first lifestyle change: walking! When I began to drag my suitcases down the cobblestones near Turl St. After picking up my apartment key, I met my principal investigator bright and early on Monday morning.  He said to me, “My time is my own,” and that lesson has rung true for the past month. Things on Google Maps have gone down from 14 minutes to 12 minutes to sometimes even 10 if I feel like breaking into a jog. I still measure things in miles, not kilometers, but I know what 400 grams is by instinct now from buying strawberries from Tesco, and I no longer struggle with understanding pounds and how to bag a good deal at the Covered Market.  
 
@@ -19,7 +19,7 @@ But here in Oxford, this kind of biostatistics is just computer science… in so
 
 The age-old questions of what things are called and why swirl in my mind as I come face to face with various spheres of influence. And this makes the question of what I really want to do with my life and the different axes I’m straddling all the more important, one that I hope can be answered (partially) through experiences like this summer.  
 
-![Radcliffe Camera in Oxford](/assets/photos/radcam.jpg)
+<img src="/assets/photos/radcam.jpg" alt="Radcliffe Camera in Oxford" width="600" height="800"/>
 
 The significance of studying at the RadCam is not lost on me - I am humbled by the weight of what it means to represent my family, understand my culture, and where Oxford and the UK stand as a society still grappling with diversity and equity. I have been told many times by the wonderful role models I met at ENAR two years ago that one of the bravest things I can do as a Black female biostatistician is to take up space! And I am here in Oxford to do that, in historic libraries like the RadCam, in the seminar rooms at Jesus College and Imperial College London, and the various cafes I find to write in. Not just for myself, but for my parents who trained me to use my talents for a purpose, my grandmother and grandfather who never went to college, and help my cousin at LSE feel a bit less alone in being two members of our family living abroad and experiencing the ups and downs of our twenties.  
 
